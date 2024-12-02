@@ -13,25 +13,6 @@ Welcome to the **Flexbox Business Site** repository! This project showcases a mo
 - **Responsive Design**: Ensuring the site looks great on all devices. 📱💻
 - **Semantic HTML**: Writing clean and meaningful HTML. 🧼
 
-## 📂 Project Structure
-
-Here's a quick overview of the project's structure:
-
-├── index.html
-
-├── about.html
-
-├── services.html
-
-├── contact.html
-
-└── css
-
-├── style.css
-
-└── responsive.css
-
-
 ## 🎉 Getting Started
 
 To get a local copy up and running, follow these simple steps:
