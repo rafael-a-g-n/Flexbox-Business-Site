@@ -16,12 +16,19 @@ Welcome to the **Flexbox Business Site** repository! This project showcases a mo
 ## 📂 Project Structure
 
 Here's a quick overview of the project's structure:
+
 ├── index.html
+
 ├── about.html
+
 ├── services.html
+
 ├── contact.html
+
 └── css
+
 ├── style.css
+
 └── responsive.css
 
 
