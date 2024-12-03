@@ -43,6 +43,8 @@ Rafael A. G. N. - [@RAGN](https://github.com/rafael-a-g-n)
 
 The project is deployed on GitHub Pages and can be viewed [here](https://rafael-a-g-n.github.io/Flexbox-Business-Site/).
 
+LinkedIN - [Rafael Nogueira](https://www.linkedin.com/in/ragn/)
+
 Project Link: [https://github.com/rafael-a-g-n/Flexbox-Business-Site](https://github.com/rafael-a-g-n/Flexbox-Business-Site)
 
 ---
